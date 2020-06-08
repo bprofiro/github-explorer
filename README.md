@@ -5,7 +5,6 @@
 
 <p align="center">
   <img src="https://github.com/bprofiro/assets/blob/master/github-explorer.png" />
-  <img src="https://github.com/bprofiro/assets/blob/master/github-explorer-page.png" />
 </p>
 
 ## Sobre o Projeto
