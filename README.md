@@ -3,7 +3,7 @@
 </p>
 	
 
-<p>
+<p align="center">
   <img src="https://github.com/bprofiro/assets/blob/master/github-explorer.png" />
 </p>
 
@@ -11,52 +11,24 @@
 
   Esse projeto foi desenvolvido durante o Bootcamp GoStack, organizada pela Rocketseat.
 
-    O Github Explorer é um aplicativo de busca dentro do GitHub, ele consome a API pública do Github para mostrar ao usuário os repositórios
-  que ele procura. 
+  O Github Explorer é um aplicativo de busca dentro do GitHub, ele consome a API pública do Github para mostrar ao usuário os repositórios que ele procura. 
 
-  A escolha dessa Stack se deve à quantidade de conhecimento que é possível aproveitar entre as tecnologias, por conta de todas elas utilizarem 
-apenas uma linguagem: o JavaScript, além de serem extremamente modernas e poderosas com o uso de seu ecossistema.
-
-## Motivação social
-
-<p>
-  <img src="https://github.com/bprofiro/assets/blob/master/github-explorer-page.png" />
-</p>
-
-  Ecoleta é uma aplicação que visa ajudar as pessoas a acharem lugares de coleta de resíduos com materiais específicos, o que também
-encoraja as pessoas a reciclarem mais.
+  A aplicação guarda na Storage os repósitórios já procurados e listados e, ao clicar em algum repositório específico, o usuário é
+enviado para uma segunda página onde as issues dele estão listadas. Ao escolher uma issue, o usuário é levado até a página do repositório dessa issue.
 
 
 ## Tecnologias:
-  O Ecoleta é um aplicação complexa e, por tanto, muitas ferramentas foram utilizadas para o seu desenvolvimento. Entre elas estão:
+  Muitas ferramentas foram utilizadas para o desenvolvimento do Github explorer. Entre elas estão:
 
 - TypeScript
-- Node
 - React
   - React Icons
   - React Leaflet
   - React Dom
   - React Router Dom
-- React Native
-  - React Native Maps
-  - React Navigation
-  - React Native Gesture Handler
-  - React Native Reanimated
-  - React Native Safe Area Context
-  - React Native Screens
-  - React Native Svg
-  - React Native Web
-- Expo
-  - Expo Font
-  - Expo Location
-  - Expo Mail Composer
-- SQLite3
-- Join
-- Express
-- Knex
-- CORS
+- Styled Components
+- Polished
 - Axios
-- Multer 
 - ESlint
 - Prettier
 
@@ -67,7 +39,7 @@ Para rodar essa aplicação em sua máquina, você precisará de um ambiente Nod
 **Clonando o repositório:**
 
 ```
-$ git clone https://github.com/bprofiro/ecoleta.git
+$ git clone https://github.com/bprofiro/github-explorer.git
 ```
 
 ### Instalando:
