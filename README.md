@@ -17,6 +17,10 @@
   A aplicação guarda na Storage os repósitórios já procurados e listados e, ao clicar em algum repositório específico, o usuário é
 enviado para uma segunda página onde as issues dele estão listadas. Ao escolher uma issue, o usuário é levado até a página do repositório dessa issue.
 
+<p align="center">
+  <img src="https://github.com/bprofiro/assets/blob/master/github-explorer-page.png" />
+</p>
+
 
 ## Tecnologias:
   Muitas ferramentas foram utilizadas para o desenvolvimento do Github explorer. Entre elas estão:
